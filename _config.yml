@@ -3,8 +3,8 @@ locale: ko-KR
 title: This
 title_separator: '-'
 subtitle: "up-to-date"
-name: 바엠춘
-description: 시간빠르다
+name: BMC
+description: 'blog test'
 url: null
 baseurl: null
 repository: null
@@ -65,8 +65,8 @@ analytics:
     tracking_id: null
     anonymize_ip: null
 author:
-  name: 바엠춘
-  avatar: 'default'
+  name: BMC
+  avatar: '/assets/img/logo.jpg'
   bio: '**진짜** 박명춘'
   location: Seoul
   email: bmchun00@gmail.com
