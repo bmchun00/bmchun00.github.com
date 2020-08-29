@@ -1,5 +1,4 @@
 ---
-title: B_M_C
+title: BMC
 layout: home
 ---
-
