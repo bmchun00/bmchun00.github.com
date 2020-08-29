@@ -4,19 +4,19 @@ description:
 lang: ko-KR # default lang
 timezone: Asia/Seoul # set your timezone
 image: assets/img/ogp.png # This image used for Open Graph more info https://ogp.me/
-repo: https://github.com/piharpi/jekyll-klise # site repo [optional]
+repo:  # site repo [optional]
 mode: light # default theme "dark" | "light"
 
 # Profile settings
-author:
-  name: BMC # author name
+author: bmchun00
+  name: BMC # author namef
   bio: >- # tell to the world
     Univ. of Seoul</br>
     Dept. of Geoinformatics Engineering
   username: bmc # general username
   github: github_username # github username
   twitter: twitter_username # twitter username
-  facebook: facebook_username # facebook username
+  facebook: bmchun00 # facebook username
   email: bmchun00@gmail.com # email adress
   avatar: /assets/img/prop.jpg # change with your own avatar
 
