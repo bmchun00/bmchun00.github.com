@@ -5,7 +5,7 @@
 - title: archive
   url: /archive/
   external: false
-  
+
 - title: tags
   url: /tags/
   external: false
@@ -13,7 +13,6 @@
 - title: about
   url: /about/
   external: false # set true if you using external link, see below
-
 
 - title: github
   url: https://github.com/bmchun00
