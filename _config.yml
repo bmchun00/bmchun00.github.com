@@ -11,7 +11,7 @@ mode: light # default theme "dark" | "light"
 
 # Profile settings
 author: bmchun00
-  name: BMC # author namef
+  name: BMC # author name
   bio: >- # tell to the world
     Univ. of Seoul</br>
     Dept. of Geoinformatics Engineering
