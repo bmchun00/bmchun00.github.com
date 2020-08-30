@@ -1,10 +1,12 @@
 # Site settings
 title: deepweb by BMC
-description:
+description: >- # tell to the world
+  Univ. of Seoul</br>
+  Dept. of Geoinformatics Engineering
 lang: ko-KR # default lang
 timezone: Asia/Seoul # set your timezone
 image: assets/img/ogp.png # This image used for Open Graph more info https://ogp.me/
-repo:  # site repo [optional]
+#repo:  # site repo [optional]
 mode: light # default theme "dark" | "light"
 
 # Profile settings
