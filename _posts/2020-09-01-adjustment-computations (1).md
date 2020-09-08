@@ -1,5 +1,5 @@
 ---
-title: introduction of adjustment computations
+title: adjustment computations (1)
 tag: 조정계산론
 ---
 
