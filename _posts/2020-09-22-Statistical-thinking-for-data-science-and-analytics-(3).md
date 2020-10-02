@@ -71,3 +71,10 @@ F = {0,1} and V = {0,1}
 
 ![](https://i.ibb.co/txncs0T/no2.jpg)     
 만약 F의 요소 -1과 V의 요소 (1,2,3)을 선택했다고 가정해 봅시다. 스칼라 곱 연산 시 (-1,-2,-3)이 되는데, **이 연산의 결과가 V의 요소(양의 실수)가 아닙니다.** 또한 V의 요소 v가 있다고 가정할 때 v + (-v) = 0을 만족하는 **역연산 요소**가 있어야 하는데, V에는 이것을 만족하는 요소가 없습니다.
+
+# Magnitude of a Vector
+벡터를 배웠으니 벡터의 요소에 대해서도 이해를 해야합니다. 벡터를 구별하는 방법에는 **vector magnitude**와 **vector direction**이 있습니다. 고교 수준에서 충분히 배우고 오기 때문에, 간단하기 리뷰만 하도록 하겠습니다.
+
+* **Suppose two vectors v1 = (1, 1) and v2 = (3, 3) in R2. Do they have the same magnitude?** : 아니요. 벡터의 방향은 같지만 크기는 다릅니다.
+* **Suppose two vectors v1 = (1, 1) and v3 = (1, −1) in R2. Do they have the same magnitude?** : 예. 방향은 다르지만 크기는 같습니다.
+* **Suppose two vectors v1 = (1, 1) and v4 = (−1, 2) in R2. Do they have the same magnitude?** : 아니요. 방향도 다르고 크기도 다릅니다.
