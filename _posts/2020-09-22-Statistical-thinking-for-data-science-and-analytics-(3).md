@@ -73,11 +73,24 @@ F = {0,1} and V = {0,1}
 만약 F의 요소 -1과 V의 요소 (1,2,3)을 선택했다고 가정해 봅시다. 스칼라 곱 연산 시 (-1,-2,-3)이 되는데, **이 연산의 결과가 V의 요소(양의 실수)가 아닙니다.** 또한 V의 요소 v가 있다고 가정할 때 v + (-v) = 0을 만족하는 **역연산 요소**가 있어야 하는데, V에는 이것을 만족하는 요소가 없습니다.
 
 # Magnitude of a Vector
-벡터를 배웠으니 벡터의 요소에 대해서도 이해를 해야합니다. 벡터를 구별하는 방법에는 **vector magnitude**와 **vector direction**이 있습니다. 고교 수준에서 충분히 배우고 오기 때문에, 간단하기 리뷰만 하도록 하겠습니다.
+벡터를 배웠으니 벡터의 요소에 대해서도 이해를 해야합니다. 벡터를 구별하는 방법에는 **vector magnitude**와 **vector direction**이 있습니다. 고교 수준에서 배우는 내용에서 틀은 공유하지만, 관점이 살짝 다릅니다.
 
 * **Suppose two vectors v1 = (1, 1) and v2 = (3, 3) in R2. Do they have the same magnitude?** : 아니요. 벡터의 방향은 같지만 크기는 다릅니다.
 * **Suppose two vectors v1 = (1, 1) and v3 = (1, −1) in R2. Do they have the same magnitude?** : 예. 방향은 다르지만 크기는 같습니다.
 * **Suppose two vectors v1 = (1, 1) and v4 = (−1, 2) in R2. Do they have the same magnitude?** : 아니요. 방향도 다르고 크기도 다릅니다.
 
-Magnitude of a Vector를 이해하기 위해서는 **norm**의 개념에 대해 이해가 필요합니다. Norm은 보통 딥러닝 관련 이론에서 자주 사용됩니다.
-> Norm은 벡터의 길이 혹은 크기를 측정하는 방법(함수)입니다. Norm이 측정한 벡터의 크기는 원점에서 벡터 좌표까지의 거리 혹은 **Magnitude**라고 합니다.
+**Magnitude of a Vector**를 이해하기 위해서는 **norm**의 개념에 대해 이해가 필요합니다. Norm은 보통 딥러닝 관련 이론에서 자주 사용됩니다. **벡터에 한해 사용되는 노름은 벡터의 길이를 의미한다고 보면 됩니다.**
+> Norm은 벡터의 길이 혹은 크기를 측정하는 방법(함수)입니다. 
+>     
+
+Norm이 측정한 벡터의 크기는 *원점에서 벡터 좌표까지의 거리* 혹은 *Magnitude*라고 합니다.
+
+**Norm의 수학적 정의**     
+필드 R에 벡터 공간 V가 정의되었다고 가정합니다. V의 norm(노름)은 모든 R의 요소 a와 모든 V의 요소 u,v에 대한 음이 아닌 값에 대한 함수 p : V → R입니다. 또한 이 함수는 세 가지 조건을 만족해야 합니다.
+1. p(u + v) ≤ p(u) + p(v)
+![](https://i.ibb.co/3dTHz3m/tri.jpg)
+2. p(av) = lal p(v)
+3. if p(v) = 0, then v = 0
+
+**예제**     
+![](https://i.ibb.co/DV1Ydnt/norm.jpg)
