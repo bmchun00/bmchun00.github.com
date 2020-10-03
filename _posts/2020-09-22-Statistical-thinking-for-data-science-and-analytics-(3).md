@@ -78,3 +78,6 @@ F = {0,1} and V = {0,1}
 * **Suppose two vectors v1 = (1, 1) and v2 = (3, 3) in R2. Do they have the same magnitude?** : 아니요. 벡터의 방향은 같지만 크기는 다릅니다.
 * **Suppose two vectors v1 = (1, 1) and v3 = (1, −1) in R2. Do they have the same magnitude?** : 예. 방향은 다르지만 크기는 같습니다.
 * **Suppose two vectors v1 = (1, 1) and v4 = (−1, 2) in R2. Do they have the same magnitude?** : 아니요. 방향도 다르고 크기도 다릅니다.
+
+Magnitude of a Vector를 이해하기 위해서는 **norm**의 개념에 대해 이해가 필요합니다. Norm은 보통 딥러닝 관련 이론에서 자주 사용됩니다.
+> Norm은 벡터의 길이 혹은 크기를 측정하는 방법(함수)입니다. Norm이 측정한 벡터의 크기는 원점에서 벡터 좌표까지의 거리 혹은 **Magnitude**라고 합니다.
