@@ -1,5 +1,6 @@
 ---
 title: Adjustment computations (5)
+tag: 조정계산론
 ---
 
 # 랜덤 오차 전파(propagation of random error)
@@ -8,3 +9,12 @@ title: Adjustment computations (5)
 ![](https://i.ibb.co/dKpzpkY/1.jpg)     
 a와 b에도 오차가 있는 것을 알지만, 두 개를 곱한 값 s는 오차가 얼마인지 어떻게 추정이 가능할까요?    
 두 번째는 심지어, 두 개의 오차가 단위마저 다른데 어떻게 추정이 가능할까요?
+
+# 간단한 선형 결합 상태의 오차 전파
+![](https://i.ibb.co/NZNf7QV/2.jpg)       
+이때 a1, a2를 **계수**, σ12를 **공분산**이라고 합니다. 왜 표준편차가 아니고 분산임에 유의합니다.    
+![](https://i.ibb.co/Q6ZWSCV/3.jpg)     
+그래서 이렇게, 오차 전파의 식은 표현이 가능합니다. **AΣA'** 꼴이죠.
+
+그래서 예제를 살펴보면, 이러한 것이 가능합니다.
+![](https://i.ibb.co/gR5vg03/4.jpg)
