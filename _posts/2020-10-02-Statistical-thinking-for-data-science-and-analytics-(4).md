@@ -1,5 +1,6 @@
 ---
 title: Statistical thinking for data science and analytics (4)
+tag: 데이터와분석적사고
 ---
 
 # 벡터의 방향
