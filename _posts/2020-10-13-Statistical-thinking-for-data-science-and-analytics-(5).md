@@ -1,5 +1,6 @@
 ---
 title: Statistical thinking for data science and analytics (5)
+tag: 데이터와분석적사고
 ---
 
 데이터들은 보통 stack되는 구조로 저장됩니다. 이러한 구조를 Matrix(행렬)라고 하는데, 이번에는 행렬의 특성과 연산 방법에 대해서 알아보도록 하겠습니다.
