@@ -1,5 +1,6 @@
 ---
-title: Length of node
+title: "(algorithm) Length of node"
+tag: algorithm
 ---
 
 연결된 노드의 개수를 구하는 기본적인 문제

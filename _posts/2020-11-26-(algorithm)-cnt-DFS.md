@@ -1,5 +1,6 @@
 ---
-title: cnt DFS
+title: "(algorithm) cnt DFS"
+tag: algorithm
 ---
 
 백준의 '단지번호붙이기' 문제

@@ -1,5 +1,5 @@
 ---
-title: Statistical thinking for data science and analytics (3)
+title: 데이터와 벡터
 tag: 데이터와분석적사고
 ---
 

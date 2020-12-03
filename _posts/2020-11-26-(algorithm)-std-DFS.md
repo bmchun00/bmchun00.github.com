@@ -1,5 +1,6 @@
 ---
-title: std DFS
+title: "(algorithm) std DFS"
+tag: algorithm
 ---
 
 백준의 '유기농 배추' 문제. 기본적인 DFS

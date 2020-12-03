@@ -1,5 +1,5 @@
 ---
-title: Adjustment computations (6)
+title: 가중치
 tag: 조정계산론
 ---
 

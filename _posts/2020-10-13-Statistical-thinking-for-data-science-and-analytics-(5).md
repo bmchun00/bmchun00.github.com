@@ -1,5 +1,5 @@
 ---
-title: Statistical thinking for data science and analytics (5)
+title: 행렬
 tag: 데이터와분석적사고
 ---
 

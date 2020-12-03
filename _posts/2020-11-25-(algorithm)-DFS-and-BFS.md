@@ -1,5 +1,7 @@
 ---
-title: DFS and BFS
+title: "(algorithm) DFS and BFS"
+tags:
+- algorithm
 ---
 
 ```

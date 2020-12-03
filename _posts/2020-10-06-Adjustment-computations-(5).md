@@ -1,5 +1,5 @@
 ---
-title: Adjustment computations (5)
+title: 오차 전파
 tag: 조정계산론
 ---
 

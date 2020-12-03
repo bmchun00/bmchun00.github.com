@@ -1,5 +1,7 @@
 ---
-title: maze BFS
+title: "(algorithm) maze BFS"
+tags:
+- algorithm
 ---
 
 BFS의 최단거리 탐색을 이용한 미로찾기

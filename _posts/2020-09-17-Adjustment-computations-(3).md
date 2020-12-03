@@ -1,5 +1,5 @@
 ---
-title: Adjustment computations (3)
+title: 확률 이론
 tag: 조정계산론
 ---
 

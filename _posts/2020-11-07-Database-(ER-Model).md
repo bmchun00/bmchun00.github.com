@@ -1,5 +1,5 @@
 ---
-title: Database (ER Model)
+title: ER 모델
 tag: 데이터베이스설계
 ---
 

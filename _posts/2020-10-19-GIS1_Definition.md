@@ -1,5 +1,5 @@
 ---
-title: GIS1 Definition
+title: GIS1 정의
 ---
 
 **1. GIS**   

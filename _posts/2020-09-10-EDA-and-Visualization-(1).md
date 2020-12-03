@@ -1,5 +1,5 @@
 ---
-title: EDA and Visualization (1)
+title: R 프로그래밍
 tag: R데이터분석
 ---
 

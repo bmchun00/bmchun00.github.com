@@ -1,5 +1,5 @@
 ---
-title: Adjustment computations (2)
+title: 표본과 모수
 tag: 조정계산론
 ---
 

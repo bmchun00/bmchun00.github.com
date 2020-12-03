@@ -1,5 +1,7 @@
 ---
-title: One-way BFS
+title: "(algorithm) One-way BFS"
+tags:
+- algorithm
 ---
 
 백준의 '특정 거리의 도시 찾기'문제.

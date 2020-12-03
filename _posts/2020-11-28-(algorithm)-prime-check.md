@@ -1,5 +1,7 @@
 ---
-title: prime check
+title: "(algorithm) prime check"
+tags:
+- algorithm
 ---
 
 입력값이 소수인지 판별하는 함수 (에라토스테네스의 체 이용)

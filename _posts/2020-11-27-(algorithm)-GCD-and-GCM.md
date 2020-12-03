@@ -1,5 +1,7 @@
 ---
-title: GCD and GCM
+title: "(algorithm) GCD and GCM"
+tags:
+- algorithm
 ---
 
 ```

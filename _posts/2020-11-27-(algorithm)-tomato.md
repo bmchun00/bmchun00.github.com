@@ -1,5 +1,7 @@
 ---
-title: tomato
+title: "(algorithm) tomato"
+tags:
+- algorithm
 ---
 
 백준의 '토마토'문제

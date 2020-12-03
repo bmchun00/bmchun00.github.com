@@ -1,5 +1,6 @@
 ---
-title: Hide and seek
+title: "(algorithm) Hide and seek"
+tag: algorithm
 ---
 
 백준의 '숨바꼭질' 문제
