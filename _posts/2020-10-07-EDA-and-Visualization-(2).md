@@ -1,5 +1,5 @@
 ---
-title: EDA and Visualization (2)
+title: 탐색적 데이터 분석
 tag: R데이터분석
 ---
 
