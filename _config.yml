@@ -1,75 +1,51 @@
-# Site settings
-title: deepweb by BMC
-description: >- # tell to the world
-  deepweb by BMC
-lang: ko-KR # default lang
-timezone: Asia/Seoul # set your timezone
-image: assets/img/bmcogp.png # This image used for Open Graph more info https://ogp.me/
-#repo:  # site repo [optional]
-mode: light # default theme "dark" | "light"
-
-# Profile settings
+title: BMC Blog
+description: BMC Blog
+lang: ko-KR
+timezone: Asia/Seoul
+image: assets/img/bmcogp.png
+mode: light
 author:
-  name: BMC # author name
-  bio: >- # tell to the world
-    Univ. of Seoul</br>
-    Geoinformatics Engineering & Big Data Analytics
-  username: bmc # general username
-  github: github_username # github username
-  twitter: twitter_username # twitter username
-  facebook: bmchun00 # facebook username
-  email: bmchun00@gmail.com # email adress
-  avatar: /assets/img/prop.jpg # change with your own avatar
-
-# URL settings
-url: #
-baseurl:
-permalink: /:title/
-google_analytics: # leave it blank if not wish
-fb_appid:
-
-# Collection setting
+  name: BMC
+  bio: Univ. of Seoul</br> Computer Science
+  username: bmc
+  github: github_username
+  twitter: twitter_username
+  facebook: bmchun00
+  email: bmchun00@gmail.com
+  avatar: /assets/img/prop.jpg
+url: null
+baseurl: null
+permalink: '/:title/'
+google_analytics: null
+fb_appid: null
 collections:
   posts:
     output: true
-
-# Markdown settings
 markdown: kramdown
 highlighter: rouge
 kramdown:
   syntax_highlighter: rouge
-
-# Default front matter
 defaults:
   - scope:
-      path: ""
+      path: ''
     values:
       layout: post
       comments: false
-
-# Jekyll Compose default front matter
 jekyll_compose:
   post_default_front_matter:
-    modified:
+    modified: null
     tags: []
-    description:
+    description: null
   draft_default_front_matter:
-    modified:
+    modified: null
     tags: []
-    description:
-
-# Homepage limit posts
+    description: null
 number_of_posts: 5
-
-# Build settings
-# theme: klise
 sass:
   style: compressed
-
 include:
   - _redirects
   - .htaccess
-
 exclude:
   - CNAME
   - Gemfile
@@ -83,8 +59,6 @@ exclude:
   - lighthouse.png
   - klise-*.gem
   - klise.gemspec
-
-# Plugins
 plugins:
   - jekyll-feed
   - jekyll-sitemap
