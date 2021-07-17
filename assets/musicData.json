@@ -1,4 +1,5 @@
-[{
+[
+	{
 
 		"index": "0",
 
@@ -12,7 +13,8 @@
 
 		"duration": "173844"
 
-	}, {
+	},
+	{
 
 		"index": "1",
 
@@ -26,7 +28,8 @@
 
 		"duration": "187088"
 
-	}, {
+	},
+	{
 		"index": "2",
 
 		"art": "https://s.mxmcdn.net/images-storage/albums/8/9/7/3/3/0/32033798_800_800.jpg",
@@ -38,4 +41,31 @@
 		"mp3": "https://bmchun00.github.io/assets/mp3/y2mate.com%20-%20Caravan%20Palace%20%20Aftermath.mp3",
 
 		"duration": "186592"
-	}]
+	},
+	{
+		"index": "3",
+
+		"art": "https://i.scdn.co/image/ab67616d0000b2736411e71aa79b9578f698325d",
+
+		"title": "La La Life",
+
+		"artist": "Jasted",
+
+		"mp3": "https://bmchun00.github.io/assets/mp3/Jasted%20-%20La%20La%20Life.mp3",
+
+		"duration": "168000"
+	},
+	{
+		"index": "4",
+
+		"art": "https://i1.sndcdn.com/artworks-000143226108-z65f5n-t500x500.jpg",
+
+		"title": "Beautiful Heartbeat (Deorro Remix)",
+
+		"artist": "MORTEN",
+
+		"mp3": "https://bmchun00.github.io/assets/mp3/MORTEN%20-%20Beautiful%20Heartbeat%20(Deorro%20Remix).mp3",
+
+		"duration": "261000"
+	}
+]
