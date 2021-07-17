@@ -1,0 +1,45 @@
+{
+
+	"music": [{
+
+		"index": "0",
+
+		"art": "https://i1.sndcdn.com/artworks-DyODzNIkBLhFReMd-QM4spw-t500x500.jpg",
+
+		"title": "Pixel Pig",
+
+		"artist": "Di Young",
+
+		"mp3": "https://bmchun00.github.io/assets/mp3/Di%20Young%20-%20Pixel%20Pig%20(xd%20meme%20song).mp3",
+
+		"duration": "173844"
+
+	}, {
+
+		"index": "1",
+
+		"art": "https://i1.sndcdn.com/artworks-000220484881-v2muub-t500x500.jpg",
+
+		"title": "Whole (Rob Gasser Remix)",
+
+		"artist": "Chime & Adam Tell",
+
+		"mp3": "https://bmchun00.github.io/assets/mp3/Chime%20&%20Adam%20Tell%20-%20Whole%20(Rob%20Gasser%20Remix)%20%5BNCS%20Release%5D.mp3",
+
+		"duration": "187088"
+
+	}, {
+		"index": "2",
+
+		"art": "https://s.mxmcdn.net/images-storage/albums/8/9/7/3/3/0/32033798_800_800.jpg",
+
+		"title": "AfterMath",
+
+		"artist": "Caravan Palace",
+
+		"mp3": "https://bmchun00.github.io/assets/mp3/y2mate.com%20-%20Caravan%20Palace%20%20Aftermath.mp3",
+
+		"duration": "186592"
+	}]
+
+}
