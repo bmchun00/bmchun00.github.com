@@ -32,40 +32,40 @@
 	{
 		"index": "2",
 
-		"art": "https://s.mxmcdn.net/images-storage/albums/8/9/7/3/3/0/32033798_800_800.jpg",
+		"art": "https://cdns-images.dzcdn.net/images/cover/0d7b2f92bed4a13499b0243a623871e8/500x500.jpg",
 
-		"title": "AfterMath",
+		"title": "Fiona Flower",
 
-		"artist": "Caravan Palace",
+		"artist": "Di Young",
 
-		"mp3": "https://bmchun00.github.io/assets/mp3/y2mate.com%20-%20Caravan%20Palace%20%20Aftermath.mp3",
+		"mp3": "https://bmchun00.github.io/assets/mp3/y2mate.com%20-%20Fiona%20Flower.mp3,
 
-		"duration": "186592"
+		"duration": "191000"
 	},
 	{
 		"index": "3",
 
-		"art": "https://i.scdn.co/image/ab67616d0000b2736411e71aa79b9578f698325d",
+		"art": "https://cdns-images.dzcdn.net/images/cover/e3390ef01b24150b70763cd1d1f7c628/350x350.jpg",
 
-		"title": "La La Life",
+		"title": "Sunset Lover",
 
-		"artist": "Jasted",
+		"artist": "PETIT BISCUIT",
 
-		"mp3": "https://bmchun00.github.io/assets/mp3/Jasted%20-%20La%20La%20Life.mp3",
+		"mp3": "https://bmchun00.github.io/assets/mp3/y2mate.com%20-%20PETIT%20BISCUIT%20%20Sunset%20Lover.mp3"
 
-		"duration": "168000"
+		"duration": "238000"
 	},
 	{
 		"index": "4",
 
-		"art": "https://i1.sndcdn.com/artworks-000143226108-z65f5n-t500x500.jpg",
+		"art": "https://upload.wikimedia.org/wikipedia/en/b/bd/Alone_Marshmello_cover.jpg",
 
-		"title": "Beautiful Heartbeat (Deorro Remix)",
+		"title": "Alone",
 
-		"artist": "MORTEN",
+		"artist": "Marshmello",
 
-		"mp3": "https://bmchun00.github.io/assets/mp3/MORTEN%20-%20Beautiful%20Heartbeat%20(Deorro%20Remix).mp3",
+		"mp3": "https://bmchun00.github.io/assets/mp3/y2mate.com%20-%20Marshmello%20%20Alone%20Official%20Music%20Video.mp3"
 
-		"duration": "261000"
+		"duration": "199000"
 	}
 ]
