@@ -1,0 +1,77 @@
+﻿[
+	{
+
+		"index": "0",
+
+		"art": "https://bmchun00.github.io/assets/chan4/albumart/1.jpg",
+
+		"title": "Overthinker",
+
+		"artist": "INZO",
+
+		"mp3": "https://bmchun00.github.io/assets/chan4/mp3/chan4%20(1).mp3",
+
+		"duration": "274000"
+
+	},
+	{
+
+		"index": "1",
+
+		"art": "https://bmchun00.github.io/assets/chan4/albumart/2.jpg",
+
+		"title": "Let's start",
+
+		"artist": "KUWAGO",
+
+		"mp3": "https://bmchun00.github.io/assets/chan4/mp3/chan4%20(2).mp3",
+
+		"duration": "240000"
+
+	},
+	{
+
+		"index": "2",
+
+		"art": "https://bmchun00.github.io/assets/chan4/albumart/3.jpg",
+
+		"title": "Candy Spaceship",
+
+		"artist": "Snail's House",
+
+		"mp3": "https://bmchun00.github.io/assets/chan4/mp3/chan4%20(3).mp3",
+
+		"duration": "191000"
+
+	},
+	{
+
+		"index": "3",
+
+		"art": "https://bmchun00.github.io/assets/chan4/albumart/4.png",
+
+		"title": "Highlight",
+
+		"artist": "Moe Shop",
+
+		"mp3": "https://bmchun00.github.io/assets/chan4/mp3/chan4%20(4).mp3",
+
+		"duration": "185000"
+
+	},
+	{
+
+		"index": "4",
+
+		"art": "https://bmchun00.github.io/assets/chan4/albumart/5.jpg",
+
+		"title": "Shine",
+
+		"artist": "KUWAGO",
+
+		"mp3": "https://bmchun00.github.io/assets/chan4/mp3/chan4%20(5).mp3",
+
+		"duration": "201000"
+
+	}
+]
