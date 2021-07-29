@@ -1,17 +1,752 @@
-[
+﻿[
 	{
 
 		"index": "0",
 
-		"art": "https://upload.wikimedia.org/wikipedia/en/2/2e/Aespa_-_Next_Level.jpg",
+		"art": "https://bmchun00.github.io/assets/chan2/albumart/1.jpg",
+
+		"title": "바라만 본다",
+
+		"artist": "MSG워너비 (M.O.M)",
+
+		"mp3": "https://bmchun00.github.io/assets/chan2/mp3/chan2%20(1).mp3",
+
+		"duration": "212000"
+
+	},
+	{
+
+		"index": "1",
+
+		"art": "https://bmchun00.github.io/assets/chan2/albumart/2.jpg",
 
 		"title": "Next Level",
 
-		"artist": "Aespa",
+		"artist": "aespa",
 
-		"mp3": "https://bmchun00.github.io/assets/mp3/aespa_nextlevel.mp3",
+		"mp3": "https://bmchun00.github.io/assets/chan2/mp3/chan2%20(2).mp3",
 
-		"duration": "235000"
+		"duration": "222000"
+
+	},
+	{
+
+		"index": "2",
+
+		"art": "https://bmchun00.github.io/assets/chan2/albumart/3.jpg",
+
+		"title": "신호등",
+
+		"artist": "이무진",
+
+		"mp3": "https://bmchun00.github.io/assets/chan2/mp3/chan2%20(3).mp3",
+
+		"duration": "232000"
+
+	},
+	{
+
+		"index": "3",
+
+		"art": "https://bmchun00.github.io/assets/chan2/albumart/4.jpg",
+
+		"title": "Permission to Dance",
+
+		"artist": "방탄소년단",
+
+		"mp3": "https://bmchun00.github.io/assets/chan2/mp3/chan2%20(4).mp3",
+
+		"duration": ""
+
+	},
+	{
+
+		"index": "4",
+
+		"art": "https://bmchun00.github.io/assets/chan2/albumart/5.jpg",
+
+		"title": "Butter",
+
+		"artist": "방탄소년단",
+
+		"mp3": "https://bmchun00.github.io/assets/chan2/mp3/chan2%20(5).mp3",
+
+		"duration": "164000"
+
+	},
+	{
+
+		"index": "5",
+
+		"art": "https://bmchun00.github.io/assets/chan2/albumart/6.jpg",
+
+		"title": "Weekend",
+
+		"artist": "태연 (TAEYEON)",
+
+		"mp3": "https://bmchun00.github.io/assets/chan2/mp3/chan2%20(6).mp3",
+
+		"duration": "233000"
+
+	},
+	{
+
+		"index": "6",
+
+		"art": "https://bmchun00.github.io/assets/chan2/albumart/7.jpg",
+
+		"title": "헤픈 우연",
+
+		"artist": "헤이즈 (Heize)",
+
+		"mp3": "https://bmchun00.github.io/assets/chan2/mp3/chan2%20(7).mp3",
+
+		"duration": "194000"
+
+	},
+	{
+
+		"index": "7",
+
+		"art": "https://bmchun00.github.io/assets/chan2/albumart/8.jpg",
+
+		"title": "낙하 (With 아이유)",
+
+		"artist": "AKMU (악뮤)",
+
+		"mp3": "https://bmchun00.github.io/assets/chan2/mp3/chan2%20(8).mp3",
+
+		"duration": "213000"
+
+	},
+	{
+
+		"index": "8",
+
+		"art": "https://bmchun00.github.io/assets/chan2/albumart/9.jpg",
+
+		"title": "치맛바람 (Chi Mat Ba Ram)",
+
+		"artist": "브레이브걸스",
+
+		"mp3": "https://bmchun00.github.io/assets/chan2/mp3/chan2%20(9).mp3",
+
+		"duration": "217000"
+
+	},
+	{
+
+		"index": "9",
+
+		"art": "https://bmchun00.github.io/assets/chan2/albumart/10.jpg",
+
+		"title": "Peaches (feat. Daniel Caesar & GIVĒON)",
+
+		"artist": "Justin Bieber",
+
+		"mp3": "https://bmchun00.github.io/assets/chan2/mp3/chan2%20(10).mp3",
+
+		"duration": "198000"
+
+	},
+	{
+
+		"index": "10",
+
+		"art": "https://bmchun00.github.io/assets/chan2/albumart/11.jpg",
+
+		"title": "Dun Dun Dance",
+
+		"artist": "오마이걸",
+
+		"mp3": "https://bmchun00.github.io/assets/chan2/mp3/chan2%20(11).mp3",
+
+		"duration": "221000"
+
+	},
+	{
+
+		"index": "11",
+
+		"art": "https://bmchun00.github.io/assets/chan2/albumart/12.jpg",
+
+		"title": "롤린 (Rollin`)",
+
+		"artist": "브레이브걸스 (Brave Girls)",
+
+		"mp3": "https://bmchun00.github.io/assets/chan2/mp3/chan2%20(12).mp3",
+
+		"duration": "198000"
+
+	},
+	{
+
+		"index": "12",
+
+		"art": "https://bmchun00.github.io/assets/chan2/albumart/13.jpg",
+
+		"title": "Alcohol-Free",
+
+		"artist": "TWICE (트와이스)",
+
+		"mp3": "https://bmchun00.github.io/assets/chan2/mp3/chan2%20(13).mp3",
+
+		"duration": "211000"
+
+	},
+	{
+
+		"index": "13",
+
+		"art": "https://bmchun00.github.io/assets/chan2/albumart/14.jpg",
+
+		"title": "나를 아는 사람",
+
+		"artist": "MSG워너비 (정상동기)",
+
+		"mp3": "https://bmchun00.github.io/assets/chan2/mp3/chan2%20(14).mp3",
+
+		"duration": "292000"
+
+	},
+	{
+
+		"index": "14",
+
+		"art": "https://bmchun00.github.io/assets/chan2/albumart/15.jpg",
+
+		"title": "좋아좋아",
+
+		"artist": "조정석",
+
+		"mp3": "https://bmchun00.github.io/assets/chan2/mp3/chan2%20(15).mp3",
+
+		"duration": "216000"
+
+	},
+	{
+
+		"index": "15",
+
+		"art": "https://bmchun00.github.io/assets/chan2/albumart/16.jpg",
+
+		"title": "Dynamite",
+
+		"artist": "방탄소년단",
+
+		"mp3": "https://bmchun00.github.io/assets/chan2/mp3/chan2%20(16).mp3",
+
+		"duration": "199000"
+
+	},
+	{
+
+		"index": "16",
+
+		"art": "https://bmchun00.github.io/assets/chan2/albumart/17.jpg",
+
+		"title": "라일락",
+
+		"artist": "아이유 (IU)",
+
+		"mp3": "https://bmchun00.github.io/assets/chan2/mp3/chan2%20(17).mp3",
+
+		"duration": "214000"
+
+	},
+	{
+
+		"index": "17",
+
+		"art": "https://bmchun00.github.io/assets/chan2/albumart/18.jpg",
+
+		"title": "ASAP",
+
+		"artist": "STAYC (스테이씨)",
+
+		"mp3": "https://bmchun00.github.io/assets/chan2/mp3/chan2%20(18).mp3",
+
+		"duration": "195000"
+
+	},
+	{
+
+		"index": "18",
+
+		"art": "https://bmchun00.github.io/assets/chan2/albumart/19.jpg",
+
+		"title": "비와 당신",
+
+		"artist": "이무진",
+
+		"mp3": "https://bmchun00.github.io/assets/chan2/mp3/chan2%20(19).mp3",
+
+		"duration": "262000"
+
+	},
+	{
+
+		"index": "19",
+
+		"art": "https://bmchun00.github.io/assets/chan2/albumart/20.jpg",
+
+		"title": "안녕 (Hello)",
+
+		"artist": "조이 (JOY)",
+
+		"mp3": "https://bmchun00.github.io/assets/chan2/mp3/chan2%20(20).mp3",
+
+		"duration": "219000"
+
+	},
+	{
+
+		"index": "20",
+
+		"art": "https://bmchun00.github.io/assets/chan2/albumart/21.jpg",
+
+		"title": "하루만 더",
+
+		"artist": "빅마마 (Big Mama)",
+
+		"mp3": "https://bmchun00.github.io/assets/chan2/mp3/chan2%20(21).mp3",
+
+		"duration": "248000"
+
+	},
+	{
+
+		"index": "21",
+
+		"art": "https://bmchun00.github.io/assets/chan2/albumart/22.jpg",
+
+		"title": "Celebrity",
+
+		"artist": "아이유",
+
+		"mp3": "https://bmchun00.github.io/assets/chan2/mp3/chan2%20(22).mp3",
+
+		"duration": "196000"
+
+	},
+	{
+
+		"index": "22",
+
+		"art": "https://bmchun00.github.io/assets/chan2/albumart/23.jpg",
+
+		"title": "운전만해 (We Ride)",
+
+		"artist": "브레이브걸스",
+
+		"mp3": "https://bmchun00.github.io/assets/chan2/mp3/chan2%20(23).mp3",
+
+		"duration": "190000"
+
+	},
+	{
+
+		"index": "23",
+
+		"art": "https://bmchun00.github.io/assets/chan2/albumart/24.jpg",
+
+		"title": "사이렌 Remix (Feat. UNEDUCATED KID & Paul Blanco)",
+
+		"artist": "호미들",
+
+		"mp3": "https://bmchun00.github.io/assets/chan2/mp3/chan2%20(24).mp3",
+
+		"duration": "198000"
+
+	},
+	{
+
+		"index": "24",
+
+		"art": "https://bmchun00.github.io/assets/chan2/albumart/25.jpg",
+
+		"title": "상상더하기",
+
+		"artist": "MSG워너비 TOP 8",
+
+		"mp3": "https://bmchun00.github.io/assets/chan2/mp3/chan2%20(25).mp3",
+
+		"duration": "241000"
+
+	},
+	{
+
+		"index": "25",
+
+		"art": "https://bmchun00.github.io/assets/chan2/albumart/26.png",
+
+		"title": "상상더하기",
+
+		"artist": "라붐(Laboum)",
+
+		"mp3": "https://bmchun00.github.io/assets/chan2/mp3/chan2%20(26).mp3",
+
+		"duration": "243000"
+
+	},
+	{
+
+		"index": "26",
+
+		"art": "https://bmchun00.github.io/assets/chan2/albumart/27.png",
+
+		"title": "OHAYO MY NIGHT",
+
+		"artist": "디핵 (D-Hack) & PATEKO (파테코)",
+
+		"mp3": "https://bmchun00.github.io/assets/chan2/mp3/chan2%20(27).mp3",
+
+		"duration": "239000"
+
+	},
+	{
+
+		"index": "27",
+
+		"art": "https://bmchun00.github.io/assets/chan2/albumart/28.jpg",
+
+		"title": "Timeless",
+
+		"artist": "SG Wanna Be",
+
+		"mp3": "https://bmchun00.github.io/assets/chan2/mp3/chan2%20(28).mp3",
+
+		"duration": "238000"
+
+	},
+	{
+
+		"index": "28",
+
+		"art": "https://bmchun00.github.io/assets/chan2/albumart/29.jpg",
+
+		"title": "멜로디",
+
+		"artist": "ASH ISLAND",
+
+		"mp3": "https://bmchun00.github.io/assets/chan2/mp3/chan2%20(29).mp3",
+
+		"duration": "182000"
+
+	},
+	{
+
+		"index": "29",
+
+		"art": "https://bmchun00.github.io/assets/chan2/albumart/30.jpg",
+
+		"title": "내 손을 잡아",
+
+		"artist": "아이유(IU)",
+
+		"mp3": "https://bmchun00.github.io/assets/chan2/mp3/chan2%20(30).mp3",
+
+		"duration": "195000"
+
+	},
+	{
+
+		"index": "30",
+
+		"art": "https://bmchun00.github.io/assets/chan2/albumart/31.jpg",
+
+		"title": "전쟁터 (With 이선희)",
+
+		"artist": "AKMU (악뮤)",
+
+		"mp3": "https://bmchun00.github.io/assets/chan2/mp3/chan2%20(31).mp3",
+
+		"duration": "233000"
+
+	},
+	{
+
+		"index": "31",
+
+		"art": "https://bmchun00.github.io/assets/chan2/albumart/32.jpg",
+
+		"title": "밝게 빛나는 별이 되어 비춰줄게",
+
+		"artist": "송이한",
+
+		"mp3": "https://bmchun00.github.io/assets/chan2/mp3/chan2%20(32).mp3",
+
+		"duration": "222000"
+
+	},
+	{
+
+		"index": "32",
+
+		"art": "https://bmchun00.github.io/assets/chan2/albumart/33.jpg",
+
+		"title": "Savage Love (Laxed - Siren Beat) (BTS Remix)",
+
+		"artist": "Jawsh 685 & Jason Derulo & 방탄소년단",
+
+		"mp3": "https://bmchun00.github.io/assets/chan2/mp3/chan2%20(33).mp3",
+
+		"duration": "185000"
+
+	},
+	{
+
+		"index": "33",
+
+		"art": "https://bmchun00.github.io/assets/chan2/albumart/34.png",
+
+		"title": "밤하늘의 별을(2020)",
+
+		"artist": "경서",
+
+		"mp3": "https://bmchun00.github.io/assets/chan2/mp3/chan2%20(34).mp3",
+
+		"duration": "217000"
+
+	},
+	{
+
+		"index": "34",
+
+		"art": "https://bmchun00.github.io/assets/chan2/albumart/35.jpg",
+
+		"title": "째깍 째깍 째깍 (With Beenzino)",
+
+		"artist": "AKMU (악뮤)",
+
+		"mp3": "https://bmchun00.github.io/assets/chan2/mp3/chan2%20(35).mp3",
+
+		"duration": "237000"
+
+	},
+	{
+
+		"index": "35",
+
+		"art": "https://bmchun00.github.io/assets/chan2/albumart/36.jpg",
+
+		"title": "Lovesick Girls",
+
+		"artist": "BLACKPINK",
+
+		"mp3": "https://bmchun00.github.io/assets/chan2/mp3/chan2%20(36).mp3",
+
+		"duration": "193000"
+
+	},
+	{
+
+		"index": "36",
+
+		"art": "https://bmchun00.github.io/assets/chan2/albumart/37.jpg",
+
+		"title": "작은 것들을 위한 시 (Boy with Luv) feat. Halsey",
+
+		"artist": "방탄소년단 (BTS)",
+
+		"mp3": "https://bmchun00.github.io/assets/chan2/mp3/chan2%20(37).mp3",
+
+		"duration": "230000"
+
+	},
+	{
+
+		"index": "37",
+
+		"art": "https://bmchun00.github.io/assets/chan2/albumart/38.jpg",
+
+		"title": "Dolphin",
+
+		"artist": "오마이걸 (OH MY GIRL)",
+
+		"mp3": "https://bmchun00.github.io/assets/chan2/mp3/chan2%20(38).mp3",
+
+		"duration": "177000"
+
+	},
+	{
+
+		"index": "38",
+
+		"art": "https://bmchun00.github.io/assets/chan2/albumart/39.jpg",
+
+		"title": "라라라",
+
+		"artist": "SG 워너비",
+
+		"mp3": "https://bmchun00.github.io/assets/chan2/mp3/chan2%20(39).mp3",
+
+		"duration": "274000"
+
+	},
+	{
+
+		"index": "39",
+
+		"art": "https://bmchun00.github.io/assets/chan2/albumart/40.jpg",
+
+		"title": "BENCH (With Zion.T)",
+
+		"artist": "AKMU (악뮤)",
+
+		"mp3": "https://bmchun00.github.io/assets/chan2/mp3/chan2%20(40).mp3",
+
+		"duration": "225000"
+
+	},
+	{
+
+		"index": "40 ",
+
+		"art": "https://bmchun00.github.io/assets/chan2/albumart/41.jpg",
+
+		"title": "넌 좋은 사람",
+
+		"artist": "SG워너비",
+
+		"mp3": "https://bmchun00.github.io/assets/chan2/mp3/chan2%20(41).mp3",
+
+		"duration": "248000"
+
+	},
+	{
+
+		"index": "41",
+
+		"art": "https://bmchun00.github.io/assets/chan2/albumart/42.jpg",
+
+		"title": "LOVE DAY (2021) (바른연애 길잡이 X 양요섭, 정은지)",
+
+		"artist": "양요섭, 정은지",
+
+		"mp3": "https://bmchun00.github.io/assets/chan2/mp3/chan2%20(42).mp3",
+
+		"duration": "258000"
+
+	},
+	{
+
+		"index": "42",
+
+		"art": "https://bmchun00.github.io/assets/chan2/albumart/43.jpg",
+
+		"title": "다정히 내 이름을 부르면",
+
+		"artist": "경서예지 & 전건호",
+
+		"mp3": "https://bmchun00.github.io/assets/chan2/mp3/chan2%20(43).mp3",
+
+		"duration": "231000"
+
+	},
+	{
+
+		"index": "43",
+
+		"art": "https://bmchun00.github.io/assets/chan2/albumart/44.jpg",
+
+		"title": "잠이 오질 않네요",
+
+		"artist": "장범준",
+
+		"mp3": "https://bmchun00.github.io/assets/chan2/mp3/chan2%20(44).mp3",
+
+		"duration": "275000"
+
+	},
+	{
+
+		"index": "44",
+
+		"art": "https://bmchun00.github.io/assets/chan2/albumart/45.jpg",
+
+		"title": "추억은 만남보다 이별에 남아",
+
+		"artist": "정동하",
+
+		"mp3": "https://bmchun00.github.io/assets/chan2/mp3/chan2%20(45).mp3",
+
+		"duration": "265000"
+
+	},
+	{
+
+		"index": "45",
+
+		"art": "https://bmchun00.github.io/assets/chan2/albumart/46.jpg",
+
+		"title": "Blueming",
+
+		"artist": "아이유",
+
+		"mp3": "https://bmchun00.github.io/assets/chan2/mp3/chan2%20(46).mp3",
+
+		"duration": "217000"
+
+	},
+	{
+
+		"index": "46",
+
+		"art": "https://bmchun00.github.io/assets/chan2/albumart/47.jpg",
+
+		"title": "에잇(Prod.&Feat. SUGA of BTS) (Feat. SUGA)",
+
+		"artist": "아이유 (IU)",
+
+		"mp3": "https://bmchun00.github.io/assets/chan2/mp3/chan2%20(47).mp3",
+
+		"duration": "168000"
+
+	},
+	{
+
+		"index": "47",
+
+		"art": "https://bmchun00.github.io/assets/chan2/albumart/48.jpg",
+
+		"title": "고백",
+
+		"artist": "장범준",
+
+		"mp3": "https://bmchun00.github.io/assets/chan2/mp3/chan2%20(48).mp3",
+
+		"duration": "209000"
+
+	},
+	{
+
+		"index": "48",
+
+		"art": "https://bmchun00.github.io/assets/chan2/albumart/49.jpg",
+
+		"title": "비 오는 날 듣기 좋은 노래 (Feat. Colde)",
+
+		"artist": "에픽하이 (EPIK HIGH)",
+
+		"mp3": "https://bmchun00.github.io/assets/chan2/mp3/chan2%20(49).mp3",
+
+		"duration": "244000"
+
+	},
+	{
+
+		"index": "49",
+
+		"art": "https://bmchun00.github.io/assets/chan2/albumart/50.jpg",
+
+		"title": "아로하",
+
+		"artist": "조정석",
+
+		"mp3": "https://bmchun00.github.io/assets/chan2/mp3/chan2%20(50).mp3",
+
+		"duration": "245000"
 
 	}
 ]
