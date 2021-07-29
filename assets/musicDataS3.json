@@ -1,0 +1,137 @@
+﻿[
+	{
+
+		"index": "0",
+
+		"art": "https://bmchun00.github.io/assets/chan3/albumart/1.jpg",
+
+		"title": "MACINTOSH PLUS リサフランク420",
+
+		"artist": "現代のコンピュー",
+
+		"mp3": "https://bmchun00.github.io/assets/chan3/mp3/chan3%20(1).mp3",
+
+		"duration": "441000"
+
+	},
+	{
+
+		"index": "1",
+
+		"art": "https://bmchun00.github.io/assets/chan3/albumart/2.jpg",
+
+		"title": "Sun",
+
+		"artist": "憂鬱",
+
+		"mp3": "https://bmchun00.github.io/assets/chan3/mp3/chan3%20(2).mp3",
+
+		"duration": "322000"
+
+	},
+	{
+
+		"index": "2",
+
+		"art": "https://bmchun00.github.io/assets/chan3/albumart/3.jpg",
+
+		"title": "Decay",
+
+		"artist": "HOME",
+
+		"mp3": "https://bmchun00.github.io/assets/chan3/mp3/chan3%20(3).mp3",
+
+		"duration": "255000"
+
+	},
+	{
+
+		"index": "3",
+
+		"art": "https://bmchun00.github.io/assets/chan3/albumart/4.png",
+
+		"title": "Resonance",
+
+		"artist": "HOME",
+
+		"mp3": "https://bmchun00.github.io/assets/chan3/mp3/chan3%20(4).mp3",
+
+		"duration": "213000"
+
+	},
+	{
+
+		"index": "4",
+
+		"art": "https://bmchun00.github.io/assets/chan3/albumart/5.jpg",
+
+		"title": "Adventures In Green Foot Printing",
+
+		"artist": "James Ferraro",
+
+		"mp3": "https://bmchun00.github.io/assets/chan3/mp3/chan3%20(5).mp3",
+
+		"duration": "208000"
+
+	},
+	{
+
+		"index": "5",
+
+		"art": "https://bmchun00.github.io/assets/chan3/albumart/6.jpg",
+
+		"title": "Teen Pregnancy",
+
+		"artist": "BLANK BANSHEE",
+
+		"mp3": "https://bmchun00.github.io/assets/chan3/mp3/chan3%20(6).mp3",
+
+		"duration": "188000"
+
+	},
+	{
+
+		"index": "6",
+
+		"art": "https://bmchun00.github.io/assets/chan3/albumart/7.jpg",
+
+		"title": "Beach Walk",
+
+		"artist": "Whitewoods",
+
+		"mp3": "https://bmchun00.github.io/assets/chan3/mp3/chan3%20(7).mp3",
+
+		"duration": "139000"
+
+	},
+	{
+
+		"index": "7",
+
+		"art": "https://bmchun00.github.io/assets/chan3/albumart/8.jpg",
+
+		"title": "Beach Walk (Zen Remix)",
+
+		"artist": "Zen",
+
+		"mp3": "https://bmchun00.github.io/assets/chan3/mp3/chan3%20(8).mp3",
+
+		"duration": "128000"
+
+	},
+	{
+
+		"index": "8",
+
+		"art": "https://bmchun00.github.io/assets/chan3/albumart/9.jpg",
+
+		"title": "ENJOY YOURSELF",
+
+		"artist": "SAINT PEPSI",
+
+		"mp3": "https://bmchun00.github.io/assets/chan3/mp3/chan3%20(9).mp3",
+
+		"duration": "117000"
+
+	}
+]
