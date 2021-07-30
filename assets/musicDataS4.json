@@ -73,5 +73,110 @@
 
 		"duration": "201000"
 
+	},
+	{
+
+		"index": "5",
+
+		"art": "https://bmchun00.github.io/assets/chan4/albumart/6.jpg",
+
+		"title": "WONDER POP",
+
+		"artist": "Moe Shop",
+
+		"mp3": "https://bmchun00.github.io/assets/chan4/mp3/chan4%20(6).mp3",
+
+		"duration": "426000"
+
+	},
+	{
+
+		"index": "6",
+
+		"art": "https://bmchun00.github.io/assets/chan4/albumart/7.jpg",
+
+		"title": "Love Sick",
+
+		"artist": "Moe Shop",
+
+		"mp3": "https://bmchun00.github.io/assets/chan4/mp3/chan4%20(7).mp3",
+
+		"duration": "172000"
+
+	},
+	{
+
+		"index": "7",
+
+		"art": "https://bmchun00.github.io/assets/chan4/albumart/8.jpg",
+
+		"title": "Paper Planes",
+
+		"artist": "SaMZing",
+
+		"mp3": "https://bmchun00.github.io/assets/chan4/mp3/chan4%20(8).mp3",
+
+		"duration": "201000"
+
+	},
+	{
+
+		"index": "8",
+
+		"art": "https://bmchun00.github.io/assets/chan4/albumart/9.jpg",
+
+		"title": "Otona !",
+
+		"artist": "PIKASONIC",
+
+		"mp3": "https://bmchun00.github.io/assets/chan4/mp3/chan4%20(9).mp3",
+
+		"duration": "120000"
+
+	},
+	{
+
+		"index": "9",
+
+		"art": "https://bmchun00.github.io/assets/chan4/albumart/10.jpg",
+
+		"title": "Grape Soda",
+
+		"artist": "Ujico/Snail's House",
+
+		"mp3": "https://bmchun00.github.io/assets/chan4/mp3/chan4%20(10).mp3",
+
+		"duration": "193000"
+
+	},
+	{
+
+		"index": "10",
+
+		"art": "https://bmchun00.github.io/assets/chan4/albumart/11.jpg",
+
+		"title": "Pets !",
+
+		"artist": "PIKASONIC",
+
+		"mp3": "https://bmchun00.github.io/assets/chan4/mp3/chan4%20(11).mp3",
+
+		"duration": "134000"
+
+	},
+	{
+
+		"index": "11",
+
+		"art": "https://bmchun00.github.io/assets/chan4/albumart/12.jpg",
+
+		"title": "Multitalents",
+
+		"artist": "PSYQUI",
+
+		"mp3": "https://bmchun00.github.io/assets/chan4/mp3/chan4%20(12).mp3",
+
+		"duration": "217000"
+
 	}
 ]
