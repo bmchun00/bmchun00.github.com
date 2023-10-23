@@ -4,7 +4,11 @@ layout: compress
 <!DOCTYPE html>
 <html lang="{{ page.lang | default: site.lang | default: " en " }}">
 {% include header.html %}
-
+<head>
+  {% if page.use_math %}
+	{% include mathjax_support.html %}
+{% endif %}
+</head>
 <body data-theme="{{ site.mode }}">
   {% include navbar.html %}
   <div class="wrapper">
