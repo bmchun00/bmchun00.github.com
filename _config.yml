@@ -23,6 +23,9 @@ collections:
     output: true
 markdown: kramdown
 highlighter: rouge
+lsi: false
+excerpt_separator: "\n\n"
+incremental: false
 kramdown:
   syntax_highlighter: rouge
 defaults:
