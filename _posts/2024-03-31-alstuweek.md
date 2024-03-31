@@ -9,8 +9,8 @@ tags:
 |문제 번호|제목|OJ|티어|사용언어|태그
 |:---:|:---:|:---:|:---:|:---:|:---:|
 |11758|[CCW](https://bmchun00.github.io/alstu26/)|백준|![](https://static.solved.ac/tier_small/11.svg){: width=15, height=15}|Python3|기하학|
-|1708|[볼록 껍질](https://bmchun00.github.io/alstu26/)|백준|![](https://static.solved.ac/tier_small/16.svg){: width=15, height=15}|Python3|기하학|
-|2699|[격자점 컨벡스헐](https://bmchun00.github.io/alstu26/)|백준|![](https://static.solved.ac/tier_small/16.svg){: width=15, height=15}|Python3|기하학|
-|6850|[Cows](https://bmchun00.github.io/alstu26/)|백준|![](https://static.solved.ac/tier_small/16.svg){: width=15, height=15}|Python3|기하학|
-|4181|[Convex Hull](https://bmchun00.github.io/alstu26/)|백준|![](https://static.solved.ac/tier_small/16.svg){: width=15, height=15}|Python3|기하학|
-|6194|[Building the Moat](https://bmchun00.github.io/alstu26/)|백준|![](https://static.solved.ac/tier_small/16.svg){: width=15, height=15}|Python3|기하학|
+|1708|[볼록 껍질](https://bmchun00.github.io/alstu27/)|백준|![](https://static.solved.ac/tier_small/16.svg){: width=15, height=15}|Python3|기하학|
+|2699|[격자점 컨벡스헐](https://bmchun00.github.io/alstu28/)|백준|![](https://static.solved.ac/tier_small/16.svg){: width=15, height=15}|Python3|기하학|
+|6850|[Cows](https://bmchun00.github.io/alstu29/)|백준|![](https://static.solved.ac/tier_small/16.svg){: width=15, height=15}|Python3|기하학|
+|4181|[Convex Hull](https://bmchun00.github.io/alstu30/)|백준|![](https://static.solved.ac/tier_small/16.svg){: width=15, height=15}|Python3|기하학|
+|6194|[Building the Moat](https://bmchun00.github.io/alstu31/)|백준|![](https://static.solved.ac/tier_small/16.svg){: width=15, height=15}|Python3|기하학|
