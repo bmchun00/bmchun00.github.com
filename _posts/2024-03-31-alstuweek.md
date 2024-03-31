@@ -5,7 +5,6 @@ tags:
 ---
 
 # 2주차
-<center>
 
 |문제 번호|제목|OJ|티어|사용언어|태그
 |:---:|:---:|:---:|:---:|:---:|:---:|
@@ -15,5 +14,3 @@ tags:
 |6850|[Cows](https://bmchun00.github.io/alstu26/)|백준|![](https://static.solved.ac/tier_small/16.svg){: width=15, height=15}|Python3|기하학|
 |4181|[Convex Hull](https://bmchun00.github.io/alstu26/)|백준|![](https://static.solved.ac/tier_small/16.svg){: width=15, height=15}|Python3|기하학|
 |6194|[Building the Moat](https://bmchun00.github.io/alstu26/)|백준|![](https://static.solved.ac/tier_small/16.svg){: width=15, height=15}|Python3|기하학|
-
-</center>
