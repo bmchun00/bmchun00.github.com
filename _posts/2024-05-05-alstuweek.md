@@ -34,8 +34,8 @@ tags:
 |문제 번호|제목|OJ|티어|사용언어|태그
 |:---:|:---:|:---:|:---:|:---:|:---:|
 |1711|[직각삼각형](https://bmchun00.github.io/alstu38/)|백준|골드5|Python3|기하학|
-|12904|[A와 B](https://bmchun00.github.io/alstu39/)|백준|골드5|Python3|기하학|
-|1643|[쿠폰](https://bmchun00.github.io/alstu40/)|백준|골드5|Python3|기하학|
-|26217|[별꽃의 세레나데(Easy)](https://bmchun00.github.io/alstu41/)|백준|골드5|Python3|기하학|
-|1334|[다음 팰린드롬 수](https://bmchun00.github.io/alstu42/)|백준|골드5|Python3|기하학|
-|7490|[0 만들기](https://bmchun00.github.io/alstu43/)|백준|골드5|Python3|기하학|
+|12904|[A와 B](https://bmchun00.github.io/alstu39/)|백준|골드5|Python3|문자열|
+|1643|[쿠폰](https://bmchun00.github.io/alstu40/)|백준|골드5|Python3|수학|
+|26217|[별꽃의 세레나데(Easy)](https://bmchun00.github.io/alstu41/)|백준|골드5|Python3|수학|
+|1334|[다음 팰린드롬 수](https://bmchun00.github.io/alstu42/)|백준|골드5|Python3|구현|
+|7490|[0 만들기](https://bmchun00.github.io/alstu43/)|백준|골드5|Python3|구현|
