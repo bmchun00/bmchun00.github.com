@@ -28,3 +28,14 @@ tags:
 |17387|[선분 교차 2](https://bmchun00.github.io/alstu35/)|백준|골드2|Python3|기하학|
 |25308|[방사형 그래프](https://bmchun00.github.io/alstu36/)|백준|골드4|Python3|기하학|
 |24726|[미적분학 입문하기](https://bmchun00.github.io/alstu37/)|백준|골드4|Python3|기하학|
+
+# 5주차
+
+|문제 번호|제목|OJ|티어|사용언어|태그
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|1711|[직각삼각형](https://bmchun00.github.io/alstu38/)|백준|골드5|Python3|기하학|
+|12904|[A와 B](https://bmchun00.github.io/alstu39/)|백준|골드5|Python3|기하학|
+|1643|[쿠폰](https://bmchun00.github.io/alstu40/)|백준|골드5|Python3|기하학|
+|26217|[별꽃의 세레나데(Easy)](https://bmchun00.github.io/alstu41/)|백준|골드5|Python3|기하학|
+|1334|[다음 팰린드롬 수](https://bmchun00.github.io/alstu42/)|백준|골드5|Python3|기하학|
+|7490|[0 만들기](https://bmchun00.github.io/alstu43/)|백준|골드5|Python3|기하학|
