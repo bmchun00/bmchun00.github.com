@@ -39,3 +39,14 @@ tags:
 |26217|[별꽃의 세레나데(Easy)](https://bmchun00.github.io/alstu41/)|백준|골드5|Python3|수학|
 |1334|[다음 팰린드롬 수](https://bmchun00.github.io/alstu42/)|백준|골드5|Python3|구현|
 |7490|[0 만들기](https://bmchun00.github.io/alstu43/)|백준|골드5|Python3|구현|
+
+# 5주차
+
+|문제 번호|제목|OJ|티어|사용언어|태그
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|30025|[K의 배수](https://bmchun00.github.io/alstu44/)|백준|골드3|Python3|DP|
+|25306|[연속 XOR](https://bmchun00.github.io/alstu45/)|백준|골드4|Python3|수학|
+|2877|[4와 7](https://bmchun00.github.io/alstu46/)|백준|골드5|Python3|구현|
+|9519|[졸려](https://bmchun00.github.io/alstu47/)|백준|골드5|Python3|구현|
+|1038|[감소하는 수](https://bmchun00.github.io/alstu48/)|백준|골드5|Python3|구현|
+|11571|[분수로 소수 만들기](https://bmchun00.github.io/alstu49/)|백준|골드5|Python3|수학|
