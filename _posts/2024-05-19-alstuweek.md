@@ -55,9 +55,9 @@ tags:
 
 |문제 번호|제목|OJ|티어|사용언어|태그
 |:---:|:---:|:---:|:---:|:---:|:---:|
-|20149|[선분 교차 3](https://bmchun00.github.io/alstu44/)|백준|플레티넘4|Python3|조건 분기, 기하학|
-|11613|[ASCII Addition](https://bmchun00.github.io/alstu45/)|백준|골드5|Python3|문자열|
-|1195|[킥다운](https://bmchun00.github.io/alstu46/)|백준|골드5|Python3|브루트포스|
-|1722|[순열의 순서](https://bmchun00.github.io/alstu47/)|백준|골드5|Python3|조합론|
-|2115|[갤러리](https://bmchun00.github.io/alstu48/)|백준|골드5|Python3|구현|
-|20164|[홀수 홀릭 호석](https://bmchun00.github.io/alstu49/)|백준|골드5|Python3|브루트포스|
+|20149|[선분 교차 3](https://bmchun00.github.io/alstu50/)|백준|플레티넘4|Python3|조건 분기, 기하학|
+|11613|[ASCII Addition](https://bmchun00.github.io/alstu51/)|백준|골드5|Python3|문자열|
+|1195|[킥다운](https://bmchun00.github.io/alstu52/)|백준|골드5|Python3|브루트포스|
+|1722|[순열의 순서](https://bmchun00.github.io/alstu53/)|백준|골드5|Python3|조합론|
+|2115|[갤러리](https://bmchun00.github.io/alstu54/)|백준|골드5|Python3|구현|
+|20164|[홀수 홀릭 호석](https://bmchun00.github.io/alstu55/)|백준|골드5|Python3|브루트포스|
