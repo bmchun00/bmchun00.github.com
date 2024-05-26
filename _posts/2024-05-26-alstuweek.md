@@ -61,3 +61,14 @@ tags:
 |1722|[순열의 순서](https://bmchun00.github.io/alstu53/)|백준|골드5|Python3|조합론|
 |2115|[갤러리](https://bmchun00.github.io/alstu54/)|백준|골드5|Python3|구현|
 |20164|[홀수 홀릭 호석](https://bmchun00.github.io/alstu55/)|백준|골드5|Python3|브루트포스|
+
+# 8주차
+
+|문제 번호|제목|OJ|티어|사용언어|태그
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|1887|[Cow Pizza](https://bmchun00.github.io/alstu56/)|백준|골드5|Python3|비트마스킹|
+|25824|[빠른 오름차순 메시지 전달](https://bmchun00.github.io/alstu57/)|백준|골드5|Python3|백트래킹|
+|17205|[진우의 비밀번호](https://bmchun00.github.io/alstu58/)|백준|골드5|Python3|수학|
+|4563|[리벤지 오브 피타고라스](https://bmchun00.github.io/alstu59/)|백준|골드5|Python3|수학, 정수론|
+|25513|[빠른 오름차순 숫자 탐색](https://bmchun00.github.io/alstu60/)|백준|골드5|Python3|그래프|
+|15922|[아우으 우아으이야!!](https://bmchun00.github.io/alstu61/)|백준|골드5|Python3|스위핑|
